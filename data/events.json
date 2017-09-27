@@ -1,4 +1,5 @@
-[{
+[
+	{
 		"id": 101,
 		"name": "Gully Cricket",
 		"description": "Effervescence'17 presents to you the most entertaining event \"GULLY CRICKET\". Make your Team of Bluster and Come to play game of spirit. Win Cash and other exciting prizes...",
@@ -1060,6 +1061,7 @@
 			}
 		]
 	},
+	
 	{
 		"id": 146,
 		"name": "Mannequin Challenge",
@@ -1103,6 +1105,198 @@
 				"name": "",
 				"phoneNumber": 0
 			}
+		]
+	},
+ 
+	{
+		"id": 148,
+		"name": "Footloose",
+		"description": "Groovy beats and Dancing. The main stagedance event at Effervescence promises the outpour of the hearts desires with the beats of music.",
+		"location": "Main Stage set inside the campus.",
+		"timestamp": 1,
+		"imageUrl": "",
+		"facebookEventLink": "",
+		"additionalInfo": [],
+		"categories": [
+		    "main stage and pro shows"
+		],
+		"organizers": [
+		    {
+			"name": "",
+			"phoneNumber": 0
+		    },
+		    {
+			"name": "",
+			"phoneNumber": 0
+		    }
+		]
+	  },
+	
+	{
+		"id": 149,
+		"name": "Innovation",
+		"description": "All emotions come at play with a plethora of feelings at the main stage event for Dramatics. A chance not only to showcase one&#39;s talent but also to take home a handsome cash prize.",
+		"location": "Main Stage",
+		"timestamp": 1,
+		"imageUrl": "",
+		"facebookEventLink": "",
+		"additionalInfo": [],
+		"categories": [
+		    "main stage and pro shows"
+		],
+		"organizers": [
+		    {
+			"name": "",
+			"phoneNumber": 0
+		    },
+		    {
+			"name": "",
+			"phoneNumber": 0
+		    }
+		]
+	},
+
+	{
+		"id": 150,
+		"name": "Incendiary",
+		"description": "College Bands battling for recognition and the thrill to perform in front of a live audience. Great competition, Greater effort.",
+		"location": "Main Stage",
+		"timestamp": 1,
+		"imageUrl": "",
+		"facebookEventLink": "",
+		"additionalInfo": [],
+		"categories": [
+		    "main stage and pro shows"
+		],
+		"organizers": [
+		    {
+			"name": "",
+			"phoneNumber": 0
+		    },
+		    {
+			"name": "",
+			"phoneNumber": 0
+		    }
+		]
+	},
+
+	{
+		"id": 151,
+		"name": "EDM Night",
+		"description": "The rage of today-128 BPM big room rage stuff from the likes of Tieso, Hardwell, Martin Garrix and so on. Performed under SunBurn by renowned artist such as AceAxe, SickLead and more in the past, guess what lies ahead!",
+		"location": "Main Stage",
+		"timestamp": 1,
+		"imageUrl": "",
+		"facebookEventLink": "",
+		"additionalInfo": [],
+		"categories": [
+		    "main stage and pro shows"
+		],
+		"organizers": [
+		    {
+			"name": "",
+			"phoneNumber": 0
+		    },
+		    {
+			"name": "",
+			"phoneNumber": 0
+		    }
+		]
+	},
+
+	{
+		"id": 152,
+		"name": "Humour Night",
+		"description": "Make your days less gloomy and your life a little happier. Come join us this autumn where we introduce the Humour Night.",
+		"location": "Main Audi",
+		"timestamp": 1,
+		"imageUrl": "",
+		"facebookEventLink": "",
+		"additionalInfo": [],
+		"categories": [
+		    "main stage and pro shows"
+		],
+		"organizers": [
+		    {
+			"name": "",
+			"phoneNumber": 0
+		    },
+		    {
+			"name": "",
+			"phoneNumber": 0
+		    }
+		]
+        },
+
+	{
+		"id": 153,
+		"name": "Bollywood Night",
+		"description": "Bollywood is a religion and the devotees are plenty. Get ready for whats in store this year as the legacy from Daler Mehandi, Sona Mahapatra, Neha Kakkar to Benny Dayal follows.",
+		"location": "Main Stage",
+		"timestamp": 1,
+		"imageUrl": "",
+		"facebookEventLink": "",
+		"additionalInfo": [],
+		"categories": [
+		    "main stage and pro shows"
+		],
+		"organizers": [
+		    {
+			"name": "",
+			"phoneNumber": 0
+		    },
+		    {
+			"name": "",
+			"phoneNumber": 0
+		    }
+		]
+	},
+
+	{
+		"id": 154,
+		"name": "Headliner",
+		"description": "The standard has been set high with The Local Train performing in the previous edition and bigger and better can surely be expected in this edition.",
+		"location": "Main Stage",
+		"timestamp": 1,
+		"imageUrl": "",
+		"facebookEventLink": "",
+		"additionalInfo": [],
+		"categories": [
+		    "main stage and pro shows"
+		],
+		"organizers": [
+		    {
+			"name": "",
+			"phoneNumber": 0
+		    },
+		    {
+			"name": "",
+			"phoneNumber": 0
+		    }
+		]
+	},
+
+	{
+		"id": 155,
+		"name": "A'La Mode",
+		"description": "High on the Fashion quotient and too Glam to give a Damn, the Fashionistas eccentricate the stage in all colours and outfits in the Fashion Show at Effervescence'17.",
+		"location": "Main Stage",
+		"timestamp": 1,
+		"imageUrl": "",
+		"facebookEventLink": "",
+		"additionalInfo": [],
+		"categories": [
+		    "main stage and pro shows"
+		],
+		"organizers": [
+		    {
+			"name": "",
+			"phoneNumber": 0
+		    },
+		    {
+			"name": "",
+			"phoneNumber": 0
+		    }
 		]
 	}
 ]
