@@ -566,7 +566,7 @@
 		"facebookEventLink": "",
 		"additionalInfo": [],
 		"categories": [
-			"society"
+			"dance"
 		],
 		"organizers": [{
 				"name": "",
@@ -589,7 +589,7 @@
 		"facebookEventLink": "",
 		"additionalInfo": [],
 		"categories": [
-			"society"
+			"dance"
 		],
 		"organizers": [{
 				"name": "",
@@ -612,7 +612,7 @@
 		"facebookEventLink": "",
 		"additionalInfo": [],
 		"categories": [
-			"society"
+			"dance"
 		],
 		"organizers": [{
 				"name": "",
@@ -635,7 +635,7 @@
 		"facebookEventLink": "",
 		"additionalInfo": [],
 		"categories": [
-			"society"
+			"dramatics"
 		],
 		"organizers": [{
 				"name": "",
@@ -658,7 +658,7 @@
 		"facebookEventLink": "",
 		"additionalInfo": [],
 		"categories": [
-			"society"
+			"dramatics"
 		],
 		"organizers": [{
 				"name": "",
@@ -681,7 +681,7 @@
 		"facebookEventLink": "",
 		"additionalInfo": [],
 		"categories": [
-			"society"
+			"dramatics"
 		],
 		"organizers": [{
 				"name": "",
@@ -704,7 +704,7 @@
 		"facebookEventLink": "",
 		"additionalInfo": [],
 		"categories": [
-			"society"
+			"dramatics"
 		],
 		"organizers": [{
 				"name": "",
@@ -727,7 +727,7 @@
 		"facebookEventLink": "",
 		"additionalInfo": [],
 		"categories": [
-			"society"
+			"dramatics"
 		],
 		"organizers": [{
 				"name": "",
@@ -750,7 +750,7 @@
 		"facebookEventLink": "",
 		"additionalInfo": [],
 		"categories": [
-			"society"
+			"dramatics"
 		],
 		"organizers": [{
 				"name": "",
@@ -773,7 +773,7 @@
 		"facebookEventLink": "",
 		"additionalInfo": [],
 		"categories": [
-			"society"
+			"music"
 		],
 		"organizers": [{
 				"name": "",
@@ -796,7 +796,7 @@
 		"facebookEventLink": "",
 		"additionalInfo": [],
 		"categories": [
-			"society"
+			"music"
 		],
 		"organizers": [{
 				"name": "",
@@ -820,7 +820,7 @@
 		"facebookEventLink": "",
 		"additionalInfo": [],
 		"categories": [
-			"society"
+			"music"
 		],
 		"organizers": [{
 				"name": "",
@@ -843,7 +843,7 @@
 		"facebookEventLink": "",
 		"additionalInfo": [],
 		"categories": [
-			"society"
+			"literature"
 		],
 		"organizers": [{
 				"name": "",
@@ -866,7 +866,7 @@
 		"facebookEventLink": "",
 		"additionalInfo": [],
 		"categories": [
-			"society"
+			"literature"
 		],
 		"organizers": [{
 				"name": "",
@@ -889,7 +889,7 @@
 		"facebookEventLink": "",
 		"additionalInfo": [],
 		"categories": [
-			"society"
+			"literature"
 		],
 		"organizers": [{
 				"name": "",
@@ -912,7 +912,7 @@
 		"facebookEventLink": "",
 		"additionalInfo": [],
 		"categories": [
-			"society"
+			"literature"
 		],
 		"organizers": [{
 				"name": "",
@@ -935,7 +935,7 @@
 		"facebookEventLink": "",
 		"additionalInfo": [],
 		"categories": [
-			"society"
+			"literature"
 		],
 		"organizers": [{
 				"name": "",
@@ -958,7 +958,7 @@
 		"facebookEventLink": "",
 		"additionalInfo": [],
 		"categories": [
-			"society"
+			"fine arts"
 		],
 		"organizers": [{
 				"name": "",
@@ -981,7 +981,7 @@
 		"facebookEventLink": "",
 		"additionalInfo": [],
 		"categories": [
-			"society"
+			"fine arts"
 		],
 		"organizers": [{
 				"name": "",
@@ -1004,7 +1004,7 @@
 		"facebookEventLink": "",
 		"additionalInfo": [],
 		"categories": [
-			"society"
+			"fine arts"
 		],
 		"organizers": [{
 				"name": "",
@@ -1026,7 +1026,7 @@
 		"facebookEventLink": "",
 		"additionalInfo": [],
 		"categories": [
-			"society"
+			"fine arts"
 		],
 		"organizers": [{
 				"name": "",
@@ -1049,7 +1049,7 @@
 		"facebookEventLink": "",
 		"additionalInfo": [],
 		"categories": [
-			"society"
+			"AMS"
 		],
 		"organizers": [{
 				"name": "",
@@ -1072,7 +1072,7 @@
 		"facebookEventLink": "",
 		"additionalInfo": [],
 		"categories": [
-			"society"
+			"AMS"
 		],
 		"organizers": [{
 				"name": "",
@@ -1095,7 +1095,7 @@
 		"facebookEventLink": "",
 		"additionalInfo": [],
 		"categories": [
-			"society"
+			"AMS"
 		],
 		"organizers": [{
 				"name": "",
@@ -1119,7 +1119,7 @@
 		"additionalInfo": [],
 		"categories": [
 		    	"main stage",
-		    	"pro shows"
+		    	"dance"
 		],
 		"organizers": [
 		    {
@@ -1144,7 +1144,7 @@
 		"additionalInfo": [],
 		"categories": [
 		    	"main stage",
-		    	"pro shows"
+			"dramatics"
 		],
 		"organizers": [
 		    {
@@ -1169,7 +1169,7 @@
 		"additionalInfo": [],
 		"categories": [
 		    	"main stage",
-		    	"pro shows"
+			"music"
 		],
 		"organizers": [
 		    {
@@ -1185,106 +1185,6 @@
 
 	{
 		"id": 151,
-		"name": "EDM Night",
-		"description": "The rage of today-128 BPM big room rage stuff from the likes of Tieso, Hardwell, Martin Garrix and so on. Performed under SunBurn by renowned artist such as AceAxe, SickLead and more in the past, guess what lies ahead!",
-		"location": "Main Stage",
-		"timestamp": 1,
-		"imageUrl": "",
-		"facebookEventLink": "",
-		"additionalInfo": [],
-		"categories": [
-		    	"main stage",
-		    	"pro shows"
-		],
-		"organizers": [
-		    {
-			"name": "",
-			"phoneNumber": 0
-		    },
-		    {
-			"name": "",
-			"phoneNumber": 0
-		    }
-		]
-	},
-
-	{
-		"id": 152,
-		"name": "Humour Night",
-		"description": "Make your days less gloomy and your life a little happier. Come join us this autumn where we introduce the Humour Night.",
-		"location": "Main Audi",
-		"timestamp": 1,
-		"imageUrl": "",
-		"facebookEventLink": "",
-		"additionalInfo": [],
-		"categories": [
-		    	"main stage",
-		    	"pro shows"
-		],
-		"organizers": [
-		    {
-			"name": "",
-			"phoneNumber": 0
-		    },
-		    {
-			"name": "",
-			"phoneNumber": 0
-		    }
-		]
-        },
-
-	{
-		"id": 153,
-		"name": "Bollywood Night",
-		"description": "Bollywood is a religion and the devotees are plenty. Get ready for whats in store this year as the legacy from Daler Mehandi, Sona Mahapatra, Neha Kakkar to Benny Dayal follows.",
-		"location": "Main Stage",
-		"timestamp": 1,
-		"imageUrl": "",
-		"facebookEventLink": "",
-		"additionalInfo": [],
-		"categories": [
-		    	"main stage",
-		    	"pro shows"
-		],
-		"organizers": [
-		    {
-			"name": "",
-			"phoneNumber": 0
-		    },
-		    {
-			"name": "",
-			"phoneNumber": 0
-		    }
-		]
-	},
-
-	{
-		"id": 154,
-		"name": "Headliner",
-		"description": "The standard has been set high with The Local Train performing in the previous edition and bigger and better can surely be expected in this edition.",
-		"location": "Main Stage",
-		"timestamp": 1,
-		"imageUrl": "",
-		"facebookEventLink": "",
-		"additionalInfo": [],
-		"categories": [
-		    	"main stage",
-		    	"pro shows"
-		],
-		"organizers": [
-		    {
-			"name": "",
-			"phoneNumber": 0
-		    },
-		    {
-			"name": "",
-			"phoneNumber": 0
-		    }
-		]
-	},
-
-	{
-		"id": 155,
 		"name": "A'La Mode",
 		"description": "High on the Fashion quotient and too Glam to give a Damn, the Fashionistas eccentricate the stage in all colours and outfits in the Fashion Show at Effervescence'17.",
 		"location": "Main Stage",
@@ -1293,8 +1193,7 @@
 		"facebookEventLink": "",
 		"additionalInfo": [],
 		"categories": [
-		    	"main stage",
-		    	"pro shows"
+		    	"main stage"
 		],
 		"organizers": [
 		    {
